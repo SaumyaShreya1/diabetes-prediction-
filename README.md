@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction System
 ### An End-to-End Machine Learning Project
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kmanuxb4ajegsiicftlqkb.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.22+-red?logo=streamlit)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-orange)
